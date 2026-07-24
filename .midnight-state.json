@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "activeNetwork": "undeployed",
+  "wallets": {},
+  "deployments": {
+    "undeployed": {
+      "address": "024c16a50bcfd0068392b88425e020e83b58527ce6b18c3c3956f422e2d4940c",
+      "deployer": "mn_addr_undeployed1h3ssm5ru2t6eqy4g3she78zlxn96e36ms6pq996aduvmateh9p9sk96u7s",
+      "deployedAt": "2026-07-24T10:05:32.487Z"
+    }
+  }
+}
